@@ -1,0 +1,7 @@
+- Választott helyszín törlésnél nem tűnik el egyből, rá kell frissíteni az oldalra
+- Helyszín törlés még nincs kész
+- Helyszín szerkesztésnél ctrl+F5-tel kell frissíteni néha
+- "Jelentkezz" gomb még semmit nem csinál
+- Mobil nézet hibás
+
+Ennyi hibát találtam. 
