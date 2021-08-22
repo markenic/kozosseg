@@ -1,0 +1,12 @@
+body{
+    width: 595px;
+    height: 842px;
+    margin:0 auto;
+    border:1px solid grey;
+    text-align: left;
+    line-height: 1.6;
+    font-family: garamond;
+}
+p{
+    padding:5px;
+}
